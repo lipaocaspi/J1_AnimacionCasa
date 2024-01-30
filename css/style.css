@@ -5,11 +5,10 @@ div#anim {
 }
 
 div#mensajes {
-    background: transparent;
-    width: 281px;
-    height: 285px;
+    width: 250px;
+    height: 130px;
     position: relative;
-    top: 30%;
+    top: 35%;
     left: 40%;
 
     animation-name: conteo;
